@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new block",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos provident, quos accusantium dolor tempore optio!",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Welcome to the new blockchain course",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos provident, quos accusantium dolor tempore optio!",
+      "tags": [
+        "blockchain",
+        "bitcoin",
+        "NFT"
+      ]
+    },
+    {
+      "title": "Game of Thrones",
+      "body": " Lorem ipsum dolor sit amet consectetur, \n          adipisicing elit. Aperiam ut velit est nemo aut, maxime itaque, \n          aliquid distinctio similique a odit nobis facere ad quis ratione ea labore \n          nam dolor accusantium dicta autem. Vero similique ratione accusantium maxime \n          quasi consequatur excepturi quis ullam optio deserunt aperiam delectus ea earum \n          inventore incidunt quas cum, veritatis officia perspiciatis doloribus impedit \n          eaque corrupti dolor. Necessitatibus a totam reprehenderit corrupti laudantium \n          neque reiciendis quas, facilis iusto vel similique debitis consectetur, quidem \n          libero eos amet accusamus incidunt. Libero quibusdam harum numquam doloremque \n          necessitatibus, saepe dolor, \n          consectetur, porro voluptas error fuga ipsam. Asperiores nostrum voluptatibus non!",
+      "tags": [
+        "html",
+        "css",
+        "Vue.js",
+        "TypeScript"
+      ],
+      "id": 3
+    }
+  ]
+}
